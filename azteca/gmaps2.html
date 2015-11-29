@@ -12,19 +12,22 @@ function init_google_maps() {
   var opts = { zoom: 4, center: { lat:35.680725, lng:139.767293 } }; // dummy
   map = new google.maps.Map(document.getElementById('map'), opts);
   if(!map) { alert("!map"); }
-  map.addListener('click', function(event) { jump_to(event.latLng.lat(), event.latLng.lng()); } );
-  // map.addListener('dblclick', function(event) { map.panTo(event.latLng);  } );
+  map.addListener('click',    function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), false); } );
+  //map.addListener('dblclick', function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), true); } );
   map.addListener('zoom_changed', func_on_changed);
   //map.addListener('center_changed', func_on_changed);
   marker = new google.maps.Marker({
     position: opts['center'],
     map: map,
-    title: "marker",
+    title: "go to google maps",
+  });
+  marker.addListener('click', function(event) {
+    location.assign("https://maps.google.com/maps?q=" + round_latlng(marker.getPosition().lat()) + "," + round_latlng(marker.getPosition().lng()));
   });
   var re_latlng = /^\#? *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([0-9]+) */;
   var match = re_latlng.exec(location.hash);
   if(match) {
-    jump_to(match[1], match[2]);
+    jump_to(match[1], match[2], true);
     map.setZoom(Number(match[3]));
   }
   else {
@@ -32,7 +35,7 @@ function init_google_maps() {
     else {
       navigator.geolocation.getCurrentPosition(
         function(pos) {
-          jump_to(pos.coords.latitude, pos.coords.longitude);
+          jump_to(pos.coords.latitude, pos.coords.longitude, true);
           map.setZoom(15);
         },
         function(error) {
@@ -47,10 +50,10 @@ function init_google_maps() {
     }
   }
 }
-function jump_to(lat, lng) {
+function jump_to(lat, lng, pan) {
   var latlng = new google.maps.LatLng(lat, lng);
   marker.setPosition(latlng);
-  map.panTo(latlng);
+  if(pan) map.panTo(latlng);
   func_on_changed();
 }
 function round_latlng(value) {
