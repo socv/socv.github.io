@@ -8,21 +8,21 @@ html, body, #map { height: 100%; width: 100%; margin: 0; padding: 0; }
 var map;
 function init_google_maps() {
   google.maps.controlStyle = 'azteca';
-  var opts = { zoom: 4, center: {lat:35.680725,lng:139.767293} };
+  var opts = { zoom: 4, center: { lat:35.680725, lng:139.767293 } }; // dummy
   map = new google.maps.Map(document.getElementById('map'), opts);
   if(!map) { alert("!map"); }
   map.addListener('click', function(event) { map.panTo(event.latLng); } );
   map.addListener('dblclick', function(event) { map.panTo(event.latLng);  } );
-  map.addListener('zoom_changed', on_changed_func);
-  map.addListener('center_changed', on_changed_func);
-  var re_latlng = /^\#? *([-+]?[0-9]+(?:\.[0-9]*)) *, *([-+]?[0-9]+(?:\.[0-9]*)) *, *([0-9]+) */;
+  map.addListener('zoom_changed', func_on_changed);
+  map.addListener('center_changed', func_on_changed);
+  var re_latlng = /^\#? *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([0-9]+) */;
   var match = re_latlng.exec(location.hash);
-  if(match) go_to(match[1], match[2], match[3]);
+  if(match) jump_to(match[1], match[2], match[3]);
   else {
     if(!navigator.geolocation) alert("Geolocationが使えません");
     else {
       navigator.geolocation.getCurrentPosition(
-        function(pos) { go_to(pos.coords.latitude, pos.coords.longitude, 15); },
+        function(pos) { jump_to(pos.coords.latitude, pos.coords.longitude, 15); },
         function(error) {
           switch(error.code) {
             case error.POSTION_UNAVAILABLE: alert("位置情報取得が不可能"); break;
@@ -35,12 +35,15 @@ function init_google_maps() {
     }
   }
 }
-function go_to(lat, lng, zoom) {
-map.panTo(new google.maps.LatLng(lat, lng));
-map.setZoom(Number(zoom));
+function jump_to(lat, lng, zoom) {
+  map.panTo(new google.maps.LatLng(lat, lng));
+  map.setZoom(Number(zoom));
 }
-function on_changed_func() {
-  location.hash = "#" + map.getCenter().lat() + "," + map.getCenter().lng() + "," + map.getZoom()
+function round_latlng(value) {
+   return Math.round(value * 1e7) / 1e7;
+}
+function func_on_changed() {
+  location.hash = "#" + round_latlng(map.getCenter().lat()) + "," + round_latlng(map.getCenter().lng()) + "," + map.getZoom()
 }
 //--></script>
 </head>
