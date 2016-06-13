@@ -9,7 +9,28 @@ var map;
 var marker;
 function init_google_maps() {
   google.maps.controlStyle = 'azteca';
-  var opts = { zoom: 4, center: { lat:35.680725, lng:139.767293 } }; // dummy
+  var opts = {
+    center: { lat:35.680725, lng:139.767293 }, // dummy
+    zoom: 4,
+    zoomControl: true,
+    ZoomControlOptions: {
+       position: google.maps.ControlPosition.TOP_LEFT,
+         style: google.maps.ZoomControlStyle.LARGE,
+    },
+    scaleControl: true,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    mapTypeControl: true,
+    mapTypeControlOptions: {
+      mapTypeIds: [
+        google.maps.MapTypeId.HYBRID,
+        google.maps.MapTypeId.ROADMAP,
+        google.maps.MapTypeId.SATELLITE,
+        google.maps.MapTypeId.TERRAIN,
+      ],
+      position: google.maps.ControlPosition.TOP_RIGHT,
+      style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+    },
+  };
   map = new google.maps.Map(document.getElementById('map'), opts);
   if(!map) { alert("!map"); }
   map.addListener('click',    function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), false); } );
