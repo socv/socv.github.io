@@ -14,10 +14,17 @@ function init_google_maps() {
     zoom: 4,
     zoomControl: true,
     ZoomControlOptions: {
-      position: google.maps.ControlPosition.TOP_LEFT,
+      position: google.maps.ControlPosition.RIGHT_BOTTOM,
       style: google.maps.ZoomControlStyle.LARGE,
     },
     scaleControl: true,
+    scaleControlOptions: {
+      style: google.maps.ScaleControlStyle.DEFAULT
+    },
+    rotateControl: true,
+    rotateControlOptions: {
+      position: google.maps.ControlPosition.RIGHT_BOTTOM,
+    },
     mapTypeId: google.maps.MapTypeId.ROADMAP,
     mapTypeControl: true,
     mapTypeControlOptions: {
@@ -27,37 +34,39 @@ function init_google_maps() {
         google.maps.MapTypeId.SATELLITE,
         google.maps.MapTypeId.TERRAIN,
       ],
-      position: google.maps.ControlPosition.TOP_RIGHT,
       style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+      position: google.maps.ControlPosition.TOP_RIGHT,
     },
   };
-  map = new google.maps.Map(document.getElementById('map'), opts);
-  if(!map) { alert("!map"); }
-  map.addListener('click',    function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), false); } );
-  //map.addListener('dblclick', function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), true); } );
-  map.addListener('zoom_changed', func_on_changed);
-  //map.addListener('center_changed', func_on_changed);
-  marker = new google.maps.Marker({
-    position: opts['center'],
-    map: map,
-    title: "go to google maps",
-  });
-  marker.addListener('click', function(event) {
-    location.assign("https://maps.google.com/maps?q=" + round_latlng(marker.getPosition().lat()) + "," + round_latlng(marker.getPosition().lng()));
-  });
-  var re_latlng = /^\#? *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([0-9]+) */;
+
+  var re_latlng = /^\#? *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([-+]?[0-9]+(?:\.[0-9]*)?) *, *([0-9]+)(?: *, *([rtsh])(?: *, *([0-9]+) *, *([0-9]+))?)?/;
   var match = re_latlng.exec(location.hash);
   if(match) {
-    jump_to(match[1], match[2], true);
-    map.setZoom(Number(match[3]));
+    opts.center.lat = Number(match[1]);
+    opts.center.lng = Number(match[2]);
+    opts.zoom = Number(match[3]);
+    if(match[4] != null) {
+      opts.mapTypeId = (match[4] == "t" ? "terrain" :
+      match[4] == "h" ? "hybrid" :
+      match[4] == "s" ? "satellite" : "roadmap");
+      if(match[4] == "s" || match[4] == "h") {
+        if(match[5] != null) {
+          opts.tilt = Number(match[5]);
+          if(match[6] != null) {
+            opts.heading = Number(match[6]);
+          }
+        }
+      }
+    }
   }
   else {
     if(!navigator.geolocation) alert("Geolocationが使えません");
     else {
       navigator.geolocation.getCurrentPosition(
         function(pos) {
-          jump_to(pos.coords.latitude, pos.coords.longitude, true);
-          map.setZoom(15);
+          opts.center.lat = pos.coords.latitude;
+          opts.center.lng = pos.coords.longitude;
+          opts.zoom = 15;
         },
         function(error) {
           switch(error.code) {
@@ -70,6 +79,24 @@ function init_google_maps() {
       )
     }
   }
+
+  map = new google.maps.Map(document.getElementById('map'), opts);
+  if(!map) { alert("!map"); }
+  map.addListener('click',    function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), false); } );
+  //map.addListener('dblclick', function(event) { jump_to(event.latLng.lat(), event.latLng.lng(), true); } );
+  map.addListener('zoom_changed', func_on_changed);
+  map.addListener('maptypeid_changed', func_on_changed);
+  map.addListener('tilt_changed', func_on_changed);
+  map.addListener('heading_changed', func_on_changed);
+  //map.addListener('center_changed', func_on_changed);
+  marker = new google.maps.Marker({
+    position: opts['center'],
+    map: map,
+    title: "go to google maps",
+  });
+  marker.addListener('click', function(event) {
+    location.assign("https://maps.google.com/maps?q=" + round_latlng(marker.getPosition().lat()) + "," + round_latlng(marker.getPosition().lng()));
+  });
 }
 function jump_to(lat, lng, pan) {
   var latlng = new google.maps.LatLng(lat, lng);
@@ -81,7 +108,19 @@ function round_latlng(value) {
    return Math.round(value * 1e7) / 1e7;
 }
 function func_on_changed() {
+  var MapTypeId =
+    map.getMapTypeId() == "roadmap"   ? "r" :
+    map.getMapTypeId() == "terrain"   ? "t" :
+    map.getMapTypeId() == "satellite" ? "s" :
+    map.getMapTypeId() == "hybrid"    ? "h" :
+                                        "r";
   location.hash = "#" + round_latlng(marker.getPosition().lat()) + "," + round_latlng(marker.getPosition().lng()) + "," + map.getZoom()
+    + "," + MapTypeId;
+  if(MapTypeId == "s" || MapTypeId == "h") {
+    location.hash +=
+        "," + (map.getTilt() == null ? 0 : map.getTilt())
+      + "," + (map.getHeading() == null ? 0 : map.getHeading());
+  }
 }
 //--></script>
 </head>
