@@ -70,9 +70,9 @@ function init_google_maps() {
         },
         function(error) {
           switch(error.code) {
-            case error.POSTION_UNAVAILABLE: alert("位置情報取得が不可能"); break;
-            case error.PERMISSINO_DENIED: alert("位置情報取得が不許可"); break;
-            case error.PERMISSION_DENIED_TIMEOUT: alert("位置情報取得タイムアウト"); break;
+            case error.PERMISSION_DENIED: alert("位置情報取得の許可がありません"); break;
+            case error.POSITION_UNAVAILABLE: alert("位置情報を取得できませんでした"); break;
+            case error.TIMEOUT: alert("位置情報取得タイムアウト"); break;
             default:alert("よくわからないエラーです : " + error.code);
           }
         }
