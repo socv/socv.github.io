@@ -20,7 +20,7 @@
 | [13114中野区  ](https://github.com/socv/socv.github.io/issues/14) |[(3月30日付) 始業式と小学校入学式4月6日、中学校入学式4月7日](https://www.city.tokyo-nakano.lg.jp/dept/nakano/d028610.html)
 | [13115杉並区  ](https://github.com/socv/socv.github.io/issues/15) |
 | [13116豊島区  ](https://github.com/socv/socv.github.io/issues/16) |
-| [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |
+| [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |[(4月2日付) 始業式と小学入学式4月6日、中学入学式4月7日。学校再開5月7日](https://www.city.kita.tokyo.jp/k-shidou/kosodate/shogakko/typhoon/020401rinjikyugyo.html)
 | [13118荒川区  ](https://github.com/socv/socv.github.io/issues/18) |
 | [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |[(4月2日付) 入学式{小学4月6日,中学4月7日},始業式{小学4月7日,始業式4月6日}, 授業再開5月7日](https://www.city.itabashi.tokyo.jp/kyoikuiinkai/gakko/1021963.html)
 | [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
