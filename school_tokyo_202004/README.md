@@ -10,7 +10,7 @@
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |
-| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |
+| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日(月)、授業再開は5月7日(木)](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
 | [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |
 | [13109品川区  ](https://github.com/socv/socv.github.io/issues/9) |
 | [13110目黒区  ](https://github.com/socv/socv.github.io/issues/10) |
