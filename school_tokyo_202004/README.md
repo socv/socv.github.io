@@ -4,8 +4,8 @@
 
 | 区            | 予定    |
 | ------------- | ------- |
-| [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |(3月24日付) 4月6日(月)より再開 https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf
-| [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |(3月31日付) 入学式は小学校4月6日(月), 中学校4月7日(火) https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html
+| [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |(3月24日付) [4月6日(月)より再開](https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf)
+| [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |(3月31日付) [入学式は小学校4月6日(月), 中学校4月7日(火)](https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html)
 | [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |
