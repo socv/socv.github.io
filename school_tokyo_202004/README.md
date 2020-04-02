@@ -14,7 +14,7 @@
 | [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |
 | [13109品川区  ](https://github.com/socv/socv.github.io/issues/9) |
 | [13110目黒区  ](https://github.com/socv/socv.github.io/issues/10) |
-| [13111大田区  ](https://github.com/socv/socv.github.io/issues/11) |
+| [13111大田区  ](https://github.com/socv/socv.github.io/issues/11) |[(3月25日付) 4月6日より再開](https://www.city.ota.tokyo.jp/kyouiku/topics/singakki_taiou.html)
 | [13112世田谷区](https://github.com/socv/socv.github.io/issues/12) |[(3月26日付) 始業と小学校入学式4月6日、中学校入学式4月7日](https://www.city.setagaya.lg.jp/mokuji/kodomo/004/001/001/d00185302.html)
 | [13113渋谷区  ](https://github.com/socv/socv.github.io/issues/13) |
 | [13114中野区  ](https://github.com/socv/socv.github.io/issues/14) |[(3月30日付) 始業式と小学校入学式4月6日、中学校入学式4月7日](https://www.city.tokyo-nakano.lg.jp/dept/nakano/d028610.html)
