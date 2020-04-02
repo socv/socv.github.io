@@ -3,7 +3,7 @@
 | 区            | 予定    |
 | ------------- | ------- |
 | 13101千代田区 |(3月24日付) 4月6日より再開 https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf
-| 13102中央区   |
+| 13102中央区   |(3月31日付) https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html
 | 13103港区     |
 | 13104新宿区   |
 | 13105文京区   |
