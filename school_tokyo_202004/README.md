@@ -1,9 +1,11 @@
-# 東京都 公立小中学校 2020年春(令和2年度) 入学式・始業式等の新学期再開の日程
+# 公立小中学校 2020年春(令和2年度) 新学期再開の日程
+
+東京都 公立小中学校 2020年春(令和2年度) 入学式・始業式等の新学期再開の日程
 
 | 区            | 予定    |
 | ------------- | ------- |
 | 13101千代田区 |(3月24日付) 4月6日より再開 https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf
-| 13102中央区   |(3月31日付) https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html
+| 13102中央区   |(3月31日付) 入学式は小学校4月6日(月), 中学校4月7日(火) https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html
 | 13103港区     |
 | 13104新宿区   |
 | 13105文京区   |
