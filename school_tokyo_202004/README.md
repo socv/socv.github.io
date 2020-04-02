@@ -6,7 +6,7 @@
 | ------------- | ------- |
 | [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |[(3月24日付) 4月6日(月)より再開](https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf)
 | [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |[(3月31日付) 入学式は小学校4月6日(月), 中学校4月7日(火)](https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html)
-| [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |
+| [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |[(3月27日付) 小学校:4月6日(月)に入学式始業式, 中学校:4月6日に始業式・4月7日に入学式 ](https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202003/20200327-3_press.html)
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |
