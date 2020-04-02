@@ -24,6 +24,6 @@
 | [13118荒川区  ](https://github.com/socv/socv.github.io/issues/18) |
 | [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |[(3月31日付) 小中学校の新学期再開は4月6日(月)](https://www.city.itabashi.tokyo.jp/kyoikuiinkai/gakko/1021926.html)
 | [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日(月)より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
-| [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学屋外入学式4月6日、中学屋外入学式4月7日、学校再開5月11日(月)](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
+| [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日(月)](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
 | [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日(月)、授業再開は5月7日(木)](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
