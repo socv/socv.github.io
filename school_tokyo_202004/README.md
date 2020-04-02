@@ -26,4 +26,4 @@
 | [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日(月)より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
 | [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
-| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |
+| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日(月)、授業再開は5月7日(木)](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
