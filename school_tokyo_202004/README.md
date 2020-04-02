@@ -23,7 +23,7 @@
 | [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |
 | [13118荒川区  ](https://github.com/socv/socv.github.io/issues/18) |
 | [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |
-| [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |
+| [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日(月)より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
 | [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
 | [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |
