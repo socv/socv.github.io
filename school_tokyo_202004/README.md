@@ -17,7 +17,7 @@
 | [13111大田区  ](https://github.com/socv/socv.github.io/issues/11) |
 | [13112世田谷区](https://github.com/socv/socv.github.io/issues/12) |[(3月26日付) 始業と小学校入学式4月6日、中学校入学式4月7日](https://www.city.setagaya.lg.jp/mokuji/kodomo/004/001/001/d00185302.html)
 | [13113渋谷区  ](https://github.com/socv/socv.github.io/issues/13) |
-| [13114中野区  ](https://github.com/socv/socv.github.io/issues/14) |
+| [13114中野区  ](https://github.com/socv/socv.github.io/issues/14) |[(3月30日付) 始業式と小学校入学式4月6日、中学校入学式4月7日](https://www.city.tokyo-nakano.lg.jp/dept/nakano/d028610.html)
 | [13115杉並区  ](https://github.com/socv/socv.github.io/issues/15) |
 | [13116豊島区  ](https://github.com/socv/socv.github.io/issues/16) |
 | [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |
