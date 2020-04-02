@@ -4,13 +4,13 @@
 
 | 区            | 予定    |
 | ------------- | ------- |
-| [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |[(3月24日付) 4月6日(月)より再開](https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf)
-| [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |[(3月31日付) 入学式は小学校4月6日(月), 中学校4月7日(火)](https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html)
-| [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |[(3月27日付) 小学校:4月6日(月)に入学式始業式, 中学校:4月6日に始業式・4月7日に入学式 ](https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202003/20200327-3_press.html)
+| [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |[(3月24日付) 4月6日より再開](https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf)
+| [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |[(3月31日付) 入学式は小学校4月6日, 中学校4月7日](https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html)
+| [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |[(3月27日付) 小学校:4月6日に入学式始業式, 中学校:4月6日に始業式・4月7日に入学式 ](https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202003/20200327-3_press.html)
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |
-| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日(月)、授業再開は5月7日(木)](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
+| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
 | [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |
 | [13109品川区  ](https://github.com/socv/socv.github.io/issues/9) |
 | [13110目黒区  ](https://github.com/socv/socv.github.io/issues/10) |
@@ -22,8 +22,8 @@
 | [13116豊島区  ](https://github.com/socv/socv.github.io/issues/16) |
 | [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |
 | [13118荒川区  ](https://github.com/socv/socv.github.io/issues/18) |
-| [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |[(3月31日付) 小中学校の新学期再開は4月6日(月)](https://www.city.itabashi.tokyo.jp/kyoikuiinkai/gakko/1021926.html)
-| [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日(月)より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
-| [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日(月)](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
+| [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |[(3月31日付) 小中学校の新学期再開は4月6日](https://www.city.itabashi.tokyo.jp/kyoikuiinkai/gakko/1021926.html)
+| [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
+| [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
-| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日(月)、授業再開は5月7日(木)](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
+| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
