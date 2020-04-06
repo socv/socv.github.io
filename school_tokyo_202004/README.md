@@ -14,7 +14,7 @@ https://socv.github.io/school_tokyo_202004/
 | [13102中央区  ](https://github.com/socv/socv.github.io/issues/2) |[(3月31日付) 入学式は小学校4月6日, 中学校4月7日](https://www.city.chuo.lg.jp/kosodate/gakkokyouiku/rinzikyuukou.html)
 | [13103港区    ](https://github.com/socv/socv.github.io/issues/3) |[(3月27日付) 小学校:4月6日に入学式始業式, 中学校:4月6日に始業式・4月7日に入学式 ](https://www.city.minato.tokyo.jp/houdou/kuse/koho/press/202003/20200327-3_press.html)
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |[(3月27日付) 小学校4月6日、中学校4月7日に新学期再開](https://www.city.shinjuku.lg.jp/kodomo/index04_02_0228.html)
-| [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |
+| [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |[(4月2日付) 小学{入学式4月6日,始業式4月7日等}, 中学{始業式4月6日,入学式4月7日}, 5月1日まで臨時当校あり](https://www.city.bunkyo.lg.jp/var/rev0/0196/3400/2020421264.pdf)
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |
 | [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
 | [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |
