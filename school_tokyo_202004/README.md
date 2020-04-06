@@ -17,7 +17,7 @@ https://socv.github.io/school_tokyo_202004/
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |[(4月2日付) 小学{入学式4月6日,始業式4月7日等}, 中学{始業式4月6日,入学式4月7日}, 5月1日まで臨時当校あり](https://www.city.bunkyo.lg.jp/var/rev0/0196/3400/2020421264.pdf)
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |[(4月3日付) 始業式と小学入学式4月20日, 中学入学式4月21日, 授業再開5月7日](https://www.city.taito.lg.jp/index/kusei/info/corona/gakkou/rinjikyugyo.html)
 | [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
-| [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |
+| [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |[(4月3日付) 始業式と小学入学式4月6日, 中学入学式4月7日, 4月13日から臨時当校,5月7日から授業再開](https://www.city.koto.lg.jp/056101/kinkyu/0403kikiki.html)
 | [13109品川区  ](https://github.com/socv/socv.github.io/issues/9) |
 | [13110目黒区  ](https://github.com/socv/socv.github.io/issues/10) |
 | [13111大田区  ](https://github.com/socv/socv.github.io/issues/11) |[(3月25日付) 4月6日より再開](https://www.city.ota.tokyo.jp/kyouiku/topics/singakki_taiou.html)
