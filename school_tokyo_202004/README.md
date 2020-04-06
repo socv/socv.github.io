@@ -22,7 +22,7 @@ https://socv.github.io/school_tokyo_202004/
 | [13112世田谷区](https://github.com/socv/socv.github.io/issues/12) |[(3月26日付) 始業と小学校入学式4月6日、中学校入学式4月7日](https://www.city.setagaya.lg.jp/mokuji/kodomo/004/001/001/d00185302.html)
 | [13113渋谷区  ](https://github.com/socv/socv.github.io/issues/13) |
 | [13114中野区  ](https://github.com/socv/socv.github.io/issues/14) |[(3月30日付) 始業式と小学校入学式4月6日、中学校入学式4月7日](https://www.city.tokyo-nakano.lg.jp/dept/nakano/d028610.html)
-| [13115杉並区  ](https://github.com/socv/socv.github.io/issues/15) |[(4月2日付) 始業式学校ごと,入学式不明瞭,授業再開5月7日](https://www.city.suginami.tokyo.jp/news/r0202/1058784.html)
+| [13115杉並区  ](https://github.com/socv/socv.github.io/issues/15) |[(4月6日付) 始業式学校ごと,入学式不明瞭,授業再開5月7日](https://www.city.suginami.tokyo.jp/news/r0202/1058784.html)
 | [13116豊島区  ](https://github.com/socv/socv.github.io/issues/16) |
 | [13117北区    ](https://github.com/socv/socv.github.io/issues/17) |[(4月2日付) 始業式と小学入学式4月6日、中学入学式4月7日。学校再開5月7日](https://www.city.kita.tokyo.jp/k-shidou/kosodate/shogakko/typhoon/020401rinjikyugyo.html)
 | [13118荒川区  ](https://github.com/socv/socv.github.io/issues/18) |[(3月30日付) 始業式と小学入学式4月13日,中学入学式4月14日](https://www.city.arakawa.tokyo.jp/kosodate-kyoiku/kyoiku/topics/20200325gakumu.html)
