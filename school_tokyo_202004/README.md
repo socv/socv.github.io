@@ -6,6 +6,8 @@ https://socv.github.io/school_tokyo_202004/
 2020年春(令和2年度) 入学式・始業式および新学期授業再開の日程について、
 区別の対応状況一覧。
 
+(4月3日金曜日までに公開された情報のみ)
+
 | 区            | 予定    |
 | ------------- | ------- |
 | [13101千代田区](https://github.com/socv/socv.github.io/issues/1) |[(3月24日付) 4月6日より再開](https://www.city.chiyoda.lg.jp/documents/19363/gakko-shingakkitaio_1.pdf)
