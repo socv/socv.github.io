@@ -31,5 +31,5 @@ https://socv.github.io/school_tokyo_202004/
 | [13119板橋区  ](https://github.com/socv/socv.github.io/issues/19) |[(4月2日付) 入学式{小学4月6日,中学4月7日},始業式{小学4月7日,始業式4月6日}, 授業再開5月7日](https://www.city.itabashi.tokyo.jp/kyoikuiinkai/gakko/1021963.html)
 | [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
 | [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
-| [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
+| [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |(4月3日時点) 不明
 | [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日、授業再開5月7日](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
