@@ -1,7 +1,5 @@
 # 公立小中学校 2020年春(令和2年度) 新学期再開の日程 (2020年4月3日)
 
-[https://socv.github.io/school_tokyo_202004/](https://socv.github.io/school_tokyo_202004/)
-
 東京都の公立(区立)小中学校についてのみ。
 2020年春(令和2年度) 入学式・始業式および新学期授業再開の日程について、
 区別の対応状況一覧。
@@ -33,3 +31,9 @@
 | [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |(4月3日時点) 不明
 | [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日、授業再開5月7日](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
+
+
+----
+* このページに関するURL
+ * view: [https://socv.github.io/school_tokyo_202004/](https://socv.github.io/school_tokyo_202004/)
+ * github: [https://github.com/socv/socv.github.io/](https://github.com/socv/socv.github.io/)
