@@ -1,4 +1,4 @@
-# 公立小中学校 2020年春(令和2年度) 新学期再開の日程
+# 公立小中学校 2020年春(令和2年度) 新学期再開の日程 (2020年4月3日)
 
 [https://socv.github.io/school_tokyo_202004/](https://socv.github.io/school_tokyo_202004/)
 
