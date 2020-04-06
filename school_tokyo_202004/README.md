@@ -6,3 +6,9 @@
 
  * [2020年4月3日](latest.md)最新
  * [2020年4月3日](20200403.md)
+
+
+----
+* このページに関するURL
+ * view: [https://socv.github.io/school_tokyo_202004/](https://socv.github.io/school_tokyo_202004/)
+ * github: [https://github.com/socv/socv.github.io/tree/master/school_tokyo_202004](https://github.com/socv/socv.github.io/tree/master/school_tokyo_202004)
