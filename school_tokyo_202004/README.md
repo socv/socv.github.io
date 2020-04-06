@@ -16,7 +16,7 @@ https://socv.github.io/school_tokyo_202004/
 | [13104新宿区  ](https://github.com/socv/socv.github.io/issues/4) |[(3月27日付) 小学4月6日、中学4月7日に新学期再開](https://www.city.shinjuku.lg.jp/kodomo/index04_02_0228.html)
 | [13105文京区  ](https://github.com/socv/socv.github.io/issues/5) |[(4月2日付) 小学{入学式4月6日,始業式4月7日等}, 中学{始業式4月6日,入学式4月7日}, 5月1日まで臨時当校あり](https://www.city.bunkyo.lg.jp/var/rev0/0196/3400/2020421264.pdf)
 | [13106台東区  ](https://github.com/socv/socv.github.io/issues/6) |[(4月3日付) 始業式と小学入学式4月20日, 中学入学式4月21日, 授業再開5月7日](https://www.city.taito.lg.jp/index/kusei/info/corona/gakkou/rinjikyugyo.html)
-| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
+| [13107墨田区  ](https://github.com/socv/socv.github.io/issues/7) |[(4月2日付) 始業式・入学式は4月6日、授業再開5月7日](https://www.city.sumida.lg.jp/smph/kosodate_kyouiku/kosodate_site/oshirase/corona_taiou.html)
 | [13108江東区  ](https://github.com/socv/socv.github.io/issues/8) |[(4月3日付) 始業式と小学入学式4月6日, 中学入学式4月7日, 4月13日から臨時当校,5月7日から授業再開](https://www.city.koto.lg.jp/056101/kinkyu/0403kikiki.html)
 | [13109品川区  ](https://github.com/socv/socv.github.io/issues/9) |[(4月3日付) 始業式と小学入学式4月6日, 中学入学式4月7日, 5月7日から授業再開](https://www.city.shinagawa.tokyo.jp/PC/kuseizyoho/kuseizyoho-koho/kuseizyoho-koho-sonota/20200402181418.html)
 | [13110目黒区  ](https://github.com/socv/socv.github.io/issues/10) |(4月3日時点) 不明
@@ -32,4 +32,4 @@ https://socv.github.io/school_tokyo_202004/
 | [13120練馬区  ](https://github.com/socv/socv.github.io/issues/20) |[(4月1日付) 4月6日より再開](https://www.city.nerima.tokyo.jp/kosodatekyoiku/kyoiku/oshirase/korona.html)
 | [13121足立区  ](https://github.com/socv/socv.github.io/issues/21) |[(4月2日付) 始業式・小学入学式4月6日(屋外)、中学入学式4月7日(屋外)、学校再開5月11日](https://www.city.adachi.tokyo.jp/kyoikushido/0228joho.html)
 | [13122葛飾区  ](https://github.com/socv/socv.github.io/issues/22) |
-| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日、授業再開は5月7日](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
+| [13123江戸川区](https://github.com/socv/socv.github.io/issues/23) |[(4月2日付) 始業式・入学式は4月6日、授業再開5月7日](https://www.city.edogawa.tokyo.jp/e068/kosodate/kyoiku/kyouiku/oshirase/rinjikyugyou.html)
